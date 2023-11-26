@@ -1,6 +1,6 @@
 ---
 title: Samia Batool
-image: /images/authors/samia-batool.png
+image: /images/authors/samia-batol.png
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
