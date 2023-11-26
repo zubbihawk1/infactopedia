@@ -1,10 +1,9 @@
 ---
-title: "Privacy"
+title: "Privacy Policy"
 description: "this is meta description"
 draft: false
 ---
 
-**Privacy Policy**
 
 Effective Date: 26/11/2023
 
