@@ -1,10 +1,12 @@
 ---
-title: "Testify"
+title: "Testify!"
 description: "meta description"
-categories: 'List ["development"]'
-tags: 'List ["Tech"]'
-date: '2023-11-26T09:58:46+05:00'
-thumbnail: /public/images/posts/03.jpg
-authors: 'List ["Samia Batool"]'
+date: 2022-04-04T05:00:00Z
+image: "/images/posts/01.jpg"
+categories: ["art"]
+authors: ["Samia batool"]
+tags: ["diy", "toy"]
+draft: false
 ---
 
+Test Blog!
