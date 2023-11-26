@@ -4,26 +4,58 @@ description: "this is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+**Privacy Policy**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Effective Date: 26/11/2023
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+**1. Introduction**
 
-#### Gathering of Personal Information
+Welcome to Infactopedia. This Privacy Policy is designed to help you understand how we collect, use, share, and safeguard your personal information. By using Infactopedia and its services, you agree to the terms outlined in this policy.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+**2. Information We Collect**
 
-#### Protection of Personal- Information
+- **Personal Information:** We may collect personal information, such as your name, email address, and other relevant details when you interact with our website or subscribe to our newsletter.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+- **Usage Data:** We automatically collect information about how you interact with our website. This may include your IP address, browser type, device information, and pages visited.
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+**3. How We Use Your Information**
 
-#### Privacy Policy Changes
+We use the collected information for the following purposes:
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+- To provide and maintain our services.
+- To communicate with you, including sending newsletters and updates.
+- To analyze and improve the user experience on our website.
+- To comply with legal obligations.
+
+**4. Cookies and Tracking Technologies**
+
+Infactopedia uses cookies and similar tracking technologies to enhance your experience. You can adjust your browser settings to refuse cookies or to be notified when they are being used.
+
+**5. Third-Party Links**
+
+Our website may contain links to third-party websites. We are not responsible for the privacy practices or content of these external sites. Please review the privacy policies of such sites.
+
+**6. Data Security**
+
+We implement reasonable security measures to protect your personal information. However, no method of transmission over the internet or electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+**7. Your Rights**
+
+You have the right to:
+
+- Access, correct, or delete your personal information.
+- Opt-out of marketing communications.
+- Lodge a complaint with a supervisory authority.
+
+**8. Changes to This Privacy Policy**
+
+We reserve the right to update this Privacy Policy at any time. Any changes will be effective immediately upon posting on this page.
+
+**9. Contact Us**
+
+If you have any questions or concerns about this Privacy Policy, please contact us at [zubbi@infactopedia.com].
+
+Thank you for trusting Infactopedia with your information.
+
+Regards
+>Founder, Infactopedia
