@@ -6,6 +6,16 @@ import { BiCalendarEdit,BiCategoryAlt } from "react-icons/bi/index.js";
 const { posts } = Astro.props;
 ---
 
+<!-- Google tag (gtag.js) -->
+<script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-6ZEXT5R3B7"></script>
+<script type="text/partytown">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6ZEXT5R3B7');
+</script>
+
 <div class="row gy-4 justify-center">
   {
     posts.map((post: any, i: number) => (
