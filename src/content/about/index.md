@@ -14,7 +14,7 @@ what_i_do:
     description: "We strive to deliver content that is not only informative but also engaging, making the process of learning an enjoyable and enriching experience."
   
   - title: "Community of Learners"
-    description: "Infactopedia is not just a solo expedition; it's a community of like-minded individuals who share a passion for learning. Join our discussions, share your thoughts, and be a part of a community."
+    description: "Infactopedia is not just a solo expedition; it's a community of like-minded individuals who share a passion for learning. Be a part of our community."
 
 ---
 
