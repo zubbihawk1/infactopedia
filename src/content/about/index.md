@@ -1,5 +1,5 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "We are InFactopedia, A content writer based in LDN, Currently at Bookworm"
 meta_title: "About"
 image: "/images/author.png"
 draft: false
@@ -18,6 +18,4 @@ what_i_do:
 
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+At Infactopedia, our mission is simple yet profound: to inspire a love for learning and discovery. We believe that knowledge is a powerful tool that can transform lives, broaden perspectives, and ignite the flame of curiosity. Our goal is to bring you captivating and reliable information that not only educates but also entertains.
