@@ -58,4 +58,4 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 Thank you for trusting Infactopedia with your information.
 
 Regards
->Founder, Infactopedia
+Founder, Infactopedia
